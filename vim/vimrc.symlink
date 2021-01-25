@@ -573,3 +573,7 @@ autocmd BufWritePre * StripWhitespace
 let g:rainbow_active = 1
 
 " vim:ts=2:sw=2:et
+"
+
+
+set clipboard=unnamed
